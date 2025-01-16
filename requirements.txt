@@ -1,6 +1,5 @@
-python==3.11
+python
 streamlit-webrtc
 streamlit
 opencv-python
 numpy
-libgl1
