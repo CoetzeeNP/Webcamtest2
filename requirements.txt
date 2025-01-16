@@ -1,4 +1,3 @@
-python
 streamlit-webrtc
 streamlit
 opencv-python
